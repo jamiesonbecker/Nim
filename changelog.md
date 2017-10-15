@@ -10,3 +10,5 @@
   in ``system.nim`` and do the right thing.
 - JSON: Deprecated `getBVal`, `getFNum`, and `getNum` in favour to 
   `getBool`, `getFloat`, `getBiggestInt`. Also `getInt` procedure was added.
+- `reExtended` is no longer default for the `re` constructor in the `re`
+  module.
